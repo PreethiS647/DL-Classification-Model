@@ -37,9 +37,9 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ## PROGRAM
 
-### Name:EZHIL NEVEDHA K
+### Name:Preethi S
 
-### Register Number:212223230055
+### Register Number:212223230157
 
 ```python
 import torch
